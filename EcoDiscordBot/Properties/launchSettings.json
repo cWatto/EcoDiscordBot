@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "EcoDiscordBot": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Program Files (x86)\\\\Steam\\\\steamapps\\\\common\\\\Eco\\\\Eco_Data\\\\Server\" \"ODc0NTE1OTU3NDA0NTQ5MTQw.YRIGcw.pf-l1644riJEknybPKvPSVIl5SQ\" "
+    }
+  }
+}
